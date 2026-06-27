@@ -1,0 +1,10 @@
+# Secrets and generated artifacts
+*.key
+*.pem
+*.p12
+*.crt
+wazuh-install-files.tar
+wazuh-passwords.txt
+*.log
+*.zip
+.env
